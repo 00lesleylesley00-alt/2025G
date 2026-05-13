@@ -32,6 +32,8 @@
 #include "lcd.h"
 #define N 1024
 #define mpi 3.1415926
+
+
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
